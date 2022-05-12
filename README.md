@@ -23,13 +23,13 @@ Python 3 is required to run this project. Jupyter Notebook and the following lib
 
 ## How to use the files
 The user should start with the cityName.ipynb file. The file loads the listing dataset and exports cityName_feat.txt and cityName_pred.csv files. After analysing all cities, [significant_features.ipynb]() and [Scatter_plot.ipynb]() are used for further analysis comparing the cities.
-Example:
-1-  [Vancouver.ipynb]()
-2a- [Vancouver_feat.txt]()
-2b- [Vancouver_pred.csv]()
-3-  Analyse step 1 for all cities
-4-  [significant_features.ipynb]()
-5-  [scatter_plot.ipynb]()
+<br>Example:
+<br>1-  [Vancouver.ipynb]()
+<br>2a- [Vancouver_feat.txt]()
+<br>2b- [Vancouver_pred.csv]()
+<br>3-  Analyse step 1 for all cities
+<br>4-  [significant_features.ipynb]()
+<br>5-  [scatter_plot.ipynb]()
 
 ## Author
 Siavash Nejadi
