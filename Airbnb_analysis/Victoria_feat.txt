@@ -1,0 +1,13 @@
+bathroom_numbers
+accommodates
+minimum_nights
+bedrooms
+bath_is_shared
+number_of_reviews
+reviews_per_month
+number_of_reviews_l30d
+availability_30
+review_pca
+room_type_pca
+availability_365
+bookable_t

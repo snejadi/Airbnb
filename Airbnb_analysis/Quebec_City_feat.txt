@@ -1,0 +1,11 @@
+bedrooms
+minimum_nights
+accommodates
+bathroom_numbers
+beds
+reviews_per_month
+number_of_reviews
+bath_is_shared
+number_of_reviews_ltm
+has_availability_t
+maximum_nights
