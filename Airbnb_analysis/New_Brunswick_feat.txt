@@ -1,9 +1,8 @@
 bathroom_numbers
 accommodates
 number_of_reviews
-beds
 bath_is_shared
 number_of_reviews_ltm
 availability_30
-room_type_pca
 availability_365
+room_type_pca
