@@ -1,8 +1,0 @@
-bathroom_numbers
-accommodates
-number_of_reviews
-bath_is_shared
-number_of_reviews_ltm
-availability_30
-availability_365
-room_type_pca
