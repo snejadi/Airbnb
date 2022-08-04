@@ -27,9 +27,9 @@
 
 ## File Description
 <br> Jupyter Notebook is used for this study that includes the following steps: data extraction, cleansing, transformation, and analysis. 
-<br> [Seattle.ipynb](https://github.com/snejadi/Airbnb/blob/main/Airbnb_analysis/Seattle.ipynb)&emsp;&emsp;Jupyter Notebook containing the extraction, cleansing, transformation, and analysis.
-<br> [listing.csv](https://github.com/snejadi/Airbnb/blob/main/Airbnb_data/Seattle/listings.csv)&emsp;&emsp;Airbnb reference dataset
-<br> [figures](https://github.com/snejadi/Airbnb/tree/main/figures)&emsp;&emsp;The figures exported from Jupyter Notebook analysis file.
+- [Seattle.ipynb](https://github.com/snejadi/Airbnb/blob/main/Airbnb_analysis/Seattle.ipynb)&emsp;&emsp;Jupyter Notebook containing the extraction, cleansing, transformation, and analysis.
+- [listing.csv](https://github.com/snejadi/Airbnb/blob/main/Airbnb_data/Seattle/listings.csv)&emsp;&emsp;Airbnb reference dataset
+- [figures](https://github.com/snejadi/Airbnb/tree/main/figures)&emsp;&emsp;The figures exported from Jupyter Notebook analysis file.
 
 ## Installations
 <br>Python 3 is required to run this project. Jupyter Notebook and the following libraries are required to preform the analysis and export the results: pandas, numpy, scipy, stats, sklearn, matplotlib, seaborn, and squarify.
