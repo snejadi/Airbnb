@@ -10,7 +10,7 @@
 <br> Specifically, we use the [listing.csv](https://github.com/snejadi/Airbnb/blob/main/Airbnb_data/Seattle/listings.csv) file in this study. 
 - The data consists of 4,686 data points for 74 different features. 28 features were selected and used for this analysis. Here, we discard the empty columns, URLs, names, id numbers, and the text columns that require further analysis.
 <br> THe following figure shows the distribution of the price (the target) in the dataset:
-![Figure_01]()
+![Figure_01](https://github.com/snejadi/Airbnb/blob/b0a1e57efc0808965626072a745a18e97788f018/figures/01_price.png)
 
 ## Analysis
 <br> The analysis includes the following steps:
@@ -21,9 +21,9 @@
 - To mitigate multicollinearity, we remove the variable most related to the other variables. An alternative approach is to use Principal Component Analysis (PCA), which groups variables contributing similar information and reduces the dimensionality.
 <br> Next, we perform a null hypothesis test and evaluate if there is a relationship between the variables and the outcome.
 <br> The following boxplots show how different listing features relate to the price:
-![Figure_02]()
+![Figure_02](https://github.com/snejadi/Airbnb/blob/b0a1e57efc0808965626072a745a18e97788f018/figures/12_acc_bedr_roomT_bath.png)
 <br> The following figure, summarizes the Airbnb listing features related to the price:
-![Figure_03]()
+![Figure_03](https://github.com/snejadi/Airbnb/blob/b0a1e57efc0808965626072a745a18e97788f018/figures/00_significant_features.jpg)
 
 ## File Description
 <br> Jupyter Notebook is used for this study that includes the following steps: data extraction, cleansing, transformation, and analysis. 
